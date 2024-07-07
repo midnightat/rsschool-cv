@@ -84,3 +84,74 @@ a{
     text-align: center;
     font-family: inter;
 }
+
+.skills{
+    width: 316px;
+    height: 866px;
+    background-color: #D9D9D9;
+    position: absolute;
+    margin-top: 453px;
+    margin-left: 49px;
+    font-family: inter;  
+}
+
+.skills h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.skills li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.education{
+    margin-top: 630px;
+    margin-left: 49px;
+    position: absolute;
+}
+
+.education h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: inter;
+}
+
+.education p{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 14px;
+}
+
+.textaboutme{
+   position: absolute;
+    margin-top: 480px;
+    margin-left: 424px;
+    margin-right: 467px;
+    font-family: inter; 
+}
+
+.languages{
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 49px;
+    font-family: inter; 
+}
+
+.languages h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: inter;
+    margin-left: 85px;
+}
+
